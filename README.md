@@ -34,3 +34,11 @@ untuk mengisi variabel
 
 # Latihan 6
 ![Alt Text](https://github.com/divamaretta/INHERITANCE/blob/master/Screenshot%20(404).png)
+
+# Tugas Praktikum
+
+![Alt Text](https://github.com/divamaretta/INHERITANCE/blob/master/Screenshot%20(405).png)
+![Alt Text](https://github.com/divamaretta/INHERITANCE/blob/master/Screenshot%20(406).png)
+![Alt Text](https://github.com/divamaretta/INHERITANCE/blob/master/Screenshot%20(407).png)
+![Alt Text](https://github.com/divamaretta/INHERITANCE/blob/master/Screenshot%20(408).png)
+
